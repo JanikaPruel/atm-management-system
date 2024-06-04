@@ -24,6 +24,7 @@ You will be provided with an ATM management system where users can do the follow
 
 A folder which you can find here is provided, this folder will have the following fs(file system):
 
+```
 .
 |
 ├── data
@@ -35,6 +36,7 @@ A folder which you can find here is provided, this folder will have the followin
     ├── header.h
     ├── main.c
     └── system.c
+```
 
 The data folder presented above will contain information about the users and their accounts:
 
